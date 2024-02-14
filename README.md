@@ -1,2 +1,7 @@
-# react-shadcn-ui-template
-A React equivalent template  of shadcn-ui next js template
+# Kanban + Auth combination
+first , run json server
+> npm run start
+
+then, run dev
+
+> npm run dev
