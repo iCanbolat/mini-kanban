@@ -1,6 +1,6 @@
 # Kanban + Auth combination
 first , run json server
-> npm run start
+> npm run server
 
 then, run dev
 
