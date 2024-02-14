@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Abuzer Kömürcü",
+      "email": "test@gmail.com",
+      "password": "test",
+      "role": "ADMIN"
+    },
+    {
+      "id": "3",
+      "name": "John Doe",
+      "email": "johndoe@gmail.com",
+      "password": "test",
+      "role": "USER"
+    }
+  ],
+  "board": [
+    {
+      "id": "1",
+      "name": "Requested",
+      "items": [
+        {
+          "id": "1",
+          "content": "First Task"
+        },
+        {
+          "id": "5e5e792b-adb6-4768-b48a-a17df462637a",
+          "content": "Api integrations"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Test",
+      "items": [
+        {
+          "id": "f34951ee-a286-4eb8-b384-afadbe755147",
+          "content": "Third Task"
+        },
+        {
+          "id": "740e9c82-51d6-46b9-ae59-f9f10f1d9554",
+          "content": "Second Task"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Done",
+      "items": [
+        {
+          "id": "7a91b4a9-068b-46f1-83e1-91bf266c147e",
+          "content": "Done Task"
+        }
+      ]
+    } 
+  ]
+}
