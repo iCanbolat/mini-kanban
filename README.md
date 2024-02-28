@@ -1,4 +1,4 @@
-# Kanban + Auth combination
+# Kanban D&D + Auth app
 first , run json server
 > npm run server
 
